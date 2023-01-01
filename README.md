@@ -6,7 +6,6 @@ On my GitHub page, you can find a variety of projects that I have worked on. I a
 
 Thanks for stopping by!
 
-Best,
 Oliver
 
 contact: o.weinzettl@gmail.com
